@@ -42,7 +42,7 @@ body {
 }
 
 .photo.active {
-  flex: 5;
+  flex: 7;
 }
 
 .photo.active h3 {
